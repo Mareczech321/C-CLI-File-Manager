@@ -8,8 +8,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/code-C++-blue.svg" />
   <img src="https://img.shields.io/badge/status-active-brightgreen.svg" />
-  <img src="https://img.shields.io/github/languages/count/Mareczech321/FileManagerCLI.svg" />
-  <img src="https://img.shields.io/github/last-commit/Mareczech321/FileManagerCLI.svg" />
+  <img src="https://img.shields.io/github/languages/count/Mareczech321/CPP_CLI_File_Manager.svg" />
+  <img src="https://img.shields.io/github/last-commit/Mareczech321/CPP_CLI_File_Manager.svg" />
 </div>
 
 ---
