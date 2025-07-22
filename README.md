@@ -47,27 +47,27 @@
 
 1. Clone the repository:
 
-\`\`\`bash
+~~~bash
 git clone https://github.com/Mareczech321/FileManagerCLI.git
 cd FileManagerCLI
-\`\`\`
+~~~
 
 2. Compile the project:
 
-\`\`\`bash
+~~~bash
 g++ main.cpp -o filemanager -std=c++17
-\`\`\`
+~~~
 
 3. Run the tool:
 
-\`\`\`bash
+~~~bash
 ./filemanager
-\`\`\`
+~~~
 
 > On Windows:
-\`\`\`bash
+~~~bash
 filemanager.exe
-\`\`\`
+~~~
 
 ---
 
@@ -97,13 +97,13 @@ The application supports the following actions:
 
 ## Project Structure
 
-\`\`\`plaintext
+~~~plaintext
 /
 ├── main.cpp        ← core logic of the file manager
 ├── colors.cpp      ← ANSI color utility function
 ├── colors.h        ← (optional) header for color declarations
 ├── README.md       ← this file
-\`\`\`
+~~~
 
 ---
 
