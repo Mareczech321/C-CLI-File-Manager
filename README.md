@@ -107,6 +107,16 @@ The application supports the following actions:
 
 ---
 
+## Future Work
+
+This project currently serves as a robust command-line backend for file management. 
+
+A natural next step would be to develop a graphical user interface (GUI) that interacts with this backend, providing a more user-friendly experience. The modular design of the codebase allows for easy integration with various GUI frameworks such as Qt, wxWidgets, or even web-based frontends using Electron or similar technologies.
+
+This separation of concerns enables developers to extend functionality without modifying the core logic, fostering maintainability and scalability.
+
+---
+
 ## Contributing
 
 1. Fork this repository  
